@@ -1,7 +1,7 @@
 import telebot
 
 
-bot = telebot.TeleBot("7863973073:AAEKZiqaMS9PnEj5ygqqwqdgXFW3YK_PSXk")
+bot = telebot.TeleBot("")
 
 
 # Handle '/start' and '/help'
